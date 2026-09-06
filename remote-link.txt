@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://testing-tennessee-quebec-acknowledged.trycloudflare.com/vnc.html
+URL       : https://enterprises-pathology-track-promoting.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 09:07:36
+Created   : 2026-09-06 13:21:23
 =======================================================
