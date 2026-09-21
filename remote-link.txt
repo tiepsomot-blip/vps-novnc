@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://finals-writes-installing-sandwich.trycloudflare.com/vnc.html
+URL       : https://route-investors-strict-shoe.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-21 02:35:35
+Created   : 2026-09-21 10:22:00
 =======================================================
