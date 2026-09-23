@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://annex-non-amongst-fixed.trycloudflare.com/vnc.html
+URL       : https://alert-acid-archives-italic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-23 14:36:59
+Created   : 2026-09-23 18:47:29
 =======================================================
