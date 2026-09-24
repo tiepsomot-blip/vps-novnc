@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ways-labs-internship-xml.trycloudflare.com/vnc.html
+URL       : https://minority-dayton-terrace-gently.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-24 18:48:05
+Created   : 2026-09-24 22:55:02
 =======================================================
