@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://archive-least-weekend-useful.trycloudflare.com/vnc.html
+URL       : https://burning-coast-ethical-plugins.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 03:07:29
+Created   : 2026-10-03 10:11:27
 =======================================================
