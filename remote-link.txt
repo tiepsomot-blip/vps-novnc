@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dozen-merely-perception-gay.trycloudflare.com/vnc.html
+URL       : https://shelter-vegetation-lauren-buildings.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 18:31:28
+Created   : 2026-10-04 22:40:22
 =======================================================
