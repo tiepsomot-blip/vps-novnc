@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gentle-cds-buck-pour.trycloudflare.com/vnc.html
+URL       : https://secrets-workstation-impacts-counted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-06 11:39:27
+Created   : 2026-10-06 19:57:46
 =======================================================
