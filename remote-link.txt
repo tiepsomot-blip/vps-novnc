@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://microwave-employee-broadcast-bend.trycloudflare.com/vnc.html
+URL       : https://air-alarm-seller-zope.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 08:58:59
+Created   : 2026-10-17 13:25:13
 =======================================================
