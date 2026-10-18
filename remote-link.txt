@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stake-glow-control-requires.trycloudflare.com/vnc.html
+URL       : https://lawyer-liz-something-close.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 02:21:43
+Created   : 2026-10-18 09:17:35
 =======================================================
