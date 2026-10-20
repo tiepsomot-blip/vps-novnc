@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://alfred-inclusion-parent-lafayette.trycloudflare.com/vnc.html
+URL       : https://perfectly-high-advice-movie.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 09:48:04
+Created   : 2026-10-20 14:37:36
 =======================================================
