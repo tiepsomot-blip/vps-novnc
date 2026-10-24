@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://weed-observe-bowling-locks.trycloudflare.com/vnc.html
+URL       : https://halo-most-resolve-wires.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-24 09:16:01
+Created   : 2026-10-24 13:47:06
 =======================================================
