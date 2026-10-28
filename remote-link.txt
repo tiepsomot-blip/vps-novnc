@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://analysis-based-acquisition-illustrated.trycloudflare.com/vnc.html
+URL       : https://gained-herald-fan-destination.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 10:57:11
+Created   : 2026-10-28 20:01:59
 =======================================================
