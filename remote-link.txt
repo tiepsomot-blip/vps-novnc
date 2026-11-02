@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://centuries-element-cigarettes-absent.trycloudflare.com/vnc.html
+URL       : https://nursing-kent-mumbai-industry.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 03:40:49
+Created   : 2026-11-02 13:04:51
 =======================================================
