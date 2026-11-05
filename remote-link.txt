@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lanes-academy-tourism-charges.trycloudflare.com/vnc.html
+URL       : https://arcade-communications-control-namely.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 04:29:20
+Created   : 2026-11-05 12:54:16
 =======================================================
