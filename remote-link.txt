@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://newport-disposition-goto-assured.trycloudflare.com/vnc.html
+URL       : https://effectiveness-titles-creatures-lived.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-10 05:26:55
+Created   : 2026-11-10 17:26:01
 =======================================================
