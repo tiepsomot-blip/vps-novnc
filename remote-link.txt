@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://til-nails-berry-concrete.trycloudflare.com/vnc.html
+URL       : https://criterion-eagle-muze-translate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-13 00:51:44
+Created   : 2026-11-13 12:46:33
 =======================================================
