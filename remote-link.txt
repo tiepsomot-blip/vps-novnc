@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://systematic-focuses-never-ruled.trycloudflare.com/vnc.html
+URL       : https://smithsonian-laden-shades-tap.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-18 22:28:12
+Created   : 2026-11-19 05:16:16
 =======================================================
