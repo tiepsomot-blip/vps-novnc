@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://papua-launched-com-information.trycloudflare.com/vnc.html
+URL       : https://wichita-upc-scholar-being.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-20 01:36:12
+Created   : 2026-11-20 13:46:58
 =======================================================
