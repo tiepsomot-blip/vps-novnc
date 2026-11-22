@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://continue-binding-surgery-issn.trycloudflare.com/vnc.html
+URL       : https://foster-cancer-encounter-approved.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-22 04:18:01
+Created   : 2026-11-22 12:59:18
 =======================================================
