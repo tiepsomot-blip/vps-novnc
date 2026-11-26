@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://integrated-priorities-tex-julie.trycloudflare.com/vnc.html
+URL       : https://theology-phases-extraordinary-distinct.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-25 15:16:01
+Created   : 2026-11-26 02:35:37
 =======================================================
