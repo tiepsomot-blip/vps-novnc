@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://calvin-instrument-sheep-acc.trycloudflare.com/vnc.html
+URL       : https://electronics-route-summit-vertical.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-27 19:19:08
+Created   : 2026-11-28 02:26:50
 =======================================================
